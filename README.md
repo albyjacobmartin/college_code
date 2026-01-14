@@ -1,1 +1,1 @@
-This is my record of whatever i learned in 6th semester of my btech as part of the subject LLM under the supervision of Ancy Mergin maam.
+This repo is track of what i learned in 6th semester LLM subject in Alliance University.
